@@ -1,0 +1,8 @@
+{
+  "name": "elevator-pitch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/noobie2019/elevator-pitch.git",
+  "author": "noobie2019 <noobie2019@listingslab.com>",
+  "license": "MIT"
+}
